@@ -28,14 +28,16 @@ li{
     font-size: 13px;
     display: flex;
     flex-direction: row;
+    justify-content: space-between;
 
 }
 .leftalign{
-    justify-content: left;
+/*    width:50%;*/
 }
 
 .rightalign{
-    justify-content: right;
+/*
+    width:50%;*/
 }
 
 
