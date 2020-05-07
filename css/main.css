@@ -4,35 +4,54 @@ ul {
     padding:0;     
 }
 
-a{
+
+li{
+    float:left;
+    text-align: center;
+    padding: 15px 10px 0px 15px;
+}
+
+.navlinks{
     color: #000;
     opacity: 0.75;
     text-decoration: none;
 }
 
-a:hover{
+.navlinks:hover{
     text-decoration: underline;
 }
 
-.black{
-    background-color: black;
-    color: white;
-}
+
 
 #navbar{
     font-family: arial,sans-serif;
     font-size: 13px;
+    display: flex;
+    flex-direction: row;
 
 }
-
 .leftalign{
-    float:left;
+    justify-content: left;
 }
 
 .rightalign{
-    float:right;
+    justify-content: right;
 }
+
 
 #logo{
     text-align: center;
+    opacity: 1;
+}
+
+#apps{
+    opacity: 0.55;
+    height: 30px;
+    width: 30px;
+}
+
+#profile{
+    opacity: 1;
+    height: 32px;
+    width: 32px;
 }
