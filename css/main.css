@@ -1,0 +1,37 @@
+ul {
+    list-style-type: none;
+      
+}
+
+a{
+    color: #000;
+    opacity: 0.75;
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
+.black{
+    background-color: black;
+    color: white;
+}
+
+#navbar{
+    font-family: arial,sans-serif;
+    font-size: 13px;
+
+}
+
+.leftalign{
+    float:left;
+}
+
+.rightalign{
+    float:right;
+}
+
+#logo{
+    text-align: center;
+}
