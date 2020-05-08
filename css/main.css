@@ -39,15 +39,6 @@ li{
     padding: 0px 0px 0px 8px;
 
 }
-.leftalign{
-/*    width:50%;*/
-}
-
-.rightalign{
-/*
-    width:50%;*/
-}
-
 
 #logo{
     text-align: center;
@@ -55,7 +46,7 @@ li{
 }
 
 #apps{
-    opacity: 0.55;
+    opacity: 1;
     height: 24px;
     width: 24px;
     padding: 0px;
