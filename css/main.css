@@ -57,3 +57,10 @@ li{
     height: 32px;
     width: 32px;
 }
+
+#share{
+    position: absolute;
+    top: 100px;
+    left: 62%;
+
+}
