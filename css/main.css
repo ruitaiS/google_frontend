@@ -105,3 +105,18 @@ li{
     background-repeat: no-repeat;
     background-position: 15px 12px;
 }
+
+#button{
+    background-color: #f2f2f2;
+    border: 1px solid #f2f2f2;
+    border-radius: 4px;
+    color: #5F6368;
+    font-family: arial, sans-serif;
+    font-size: 14px;
+    height: 36px;
+    text-align: center;
+    margin: 11px 4px;
+    padding: 0 16px;
+    
+
+}
