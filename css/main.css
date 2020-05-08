@@ -8,7 +8,7 @@ ul {
 li{
     float:left;
     text-align: center;
-    padding: 15px 10px 0px 15px;
+    padding: 15px 8px 0px 10px;
 }
 
 .navlinks{
@@ -21,7 +21,14 @@ li{
     text-decoration: underline;
 }
 
+#appicon{
+    padding: 11px 13px 0px 10px;
+}
 
+#usricon{
+    padding: 7px 20px 0px 5px;
+
+}
 
 #navbar{
     font-family: arial,sans-serif;
@@ -29,6 +36,7 @@ li{
     display: flex;
     flex-direction: row;
     justify-content: space-between;
+    padding: 0px 0px 0px 8px;
 
 }
 .leftalign{
@@ -48,8 +56,8 @@ li{
 
 #apps{
     opacity: 0.55;
-    height: 23px;
-    width: 23px;
+    height: 24px;
+    width: 24px;
     padding: 0px;
 }
 
