@@ -40,9 +40,9 @@ li{
 
 }
 
-#logo{
-    text-align: center;
-    opacity: 1;
+#logo{   
+    width:550px;
+    height:auto;
 }
 
 #apps{
