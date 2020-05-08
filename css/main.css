@@ -115,6 +115,7 @@ li{
     background-image: url(./img/searchicon.png);
     background-repeat: no-repeat;
     background-position: 15px 12px;
+    font-size: 16px;
 }
 
 #searchbar:hover{
