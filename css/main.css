@@ -1,3 +1,11 @@
+a {
+    text-decoration:none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
 ul {
     list-style-type: none;
     margin: 0; 
@@ -64,9 +72,11 @@ li{
     height:auto;
 }
 
+
 #share{
-    position: relative;
-    top: -200px;
-    left: 530px;
+    position: absolute;
+    z-index: 1;
+    top: 0px;
+    left: 0px;
 
 }
