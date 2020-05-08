@@ -48,8 +48,9 @@ li{
 
 #apps{
     opacity: 0.55;
-    height: 30px;
-    width: 30px;
+    height: 23px;
+    width: 23px;
+    padding: 0px;
 }
 
 #profile{
