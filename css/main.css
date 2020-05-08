@@ -40,11 +40,6 @@ li{
 
 }
 
-#logo{   
-    width:550px;
-    height:auto;
-}
-
 #apps{
     opacity: 1;
     height: 24px;
@@ -58,9 +53,20 @@ li{
     width: 32px;
 }
 
+#logobox{
+    display:flex;
+    justify-content: center;
+    padding-top: 40px;
+}
+
+#logo{   
+    width:550px;
+    height:auto;
+}
+
 #share{
-    position: absolute;
-    top: 100px;
-    left: 62%;
+    position: relative;
+    top: -200px;
+    left: 530px;
 
 }
