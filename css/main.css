@@ -9,10 +9,10 @@ button:focus {
     outline: none;
 }
 
-a {
+#tips {
     text-decoration:none;
-    font-family: arial, sans-serif
-    font-size: small;
+    font-family: arial, sans-serif;
+    font-size: 21.36px;
     color: #1a0dab;
 }
 
@@ -72,7 +72,6 @@ li{
 }
 
 .footlinks{
-    display: inline-block;
     color: #5f6368;
     font-family: arial, sans-serif;
     margin: 0px;
