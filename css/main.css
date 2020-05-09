@@ -16,6 +16,10 @@ button:focus {
     color: #1a0dab;
 }
 
+#tips:hover{
+    text-decoration: underline;
+}
+
 a:hover {
     text-decoration: underline;
 }
@@ -30,6 +34,7 @@ ul {
 
 
 li{
+    display:block;
     float:left;
     text-align: center;
     padding: 15px 8px 0px 10px;
