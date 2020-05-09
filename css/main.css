@@ -77,21 +77,35 @@ li{
     display: flex;
     flex-direction: row;
     justify-content: space-between;
-    align-items: center;
 
 }
 
 .footlinks{
-    display:block;
     color: #5f6368;
     font-family: arial, sans-serif;
     margin: 0px;
+
     padding-left: 27px;
+
     text-decoration: none;
 }
 
 .footlinks:hover{
     text-decoration: underline;
+}
+
+#leftfoot{
+    display:flex;
+    align-items: center;
+    padding-bottom:15px;
+}
+
+#rightfoot{
+    display:flex;
+    align-items: center;
+    padding-bottom:15px;
+    padding-right: 27px;
+
 }
 
 
