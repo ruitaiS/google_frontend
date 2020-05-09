@@ -77,10 +77,12 @@ li{
     display: flex;
     flex-direction: row;
     justify-content: space-between;
+    align-items: center;
 
 }
 
 .footlinks{
+    display:block;
     color: #5f6368;
     font-family: arial, sans-serif;
     margin: 0px;
