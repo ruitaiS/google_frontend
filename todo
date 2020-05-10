@@ -3,5 +3,6 @@ drop shadow behavior on search bar (differentiate between autofocus vs. manual)
 mic button tooltip
 mic button size
 mic button hovering maintains drop shadow over box
+!mic button clickable area
 
 footbar behavior when the window is less than 1139px is peculiar (mine scrunches everything; the real one actually bumps up, and then continues shrinking nicely)

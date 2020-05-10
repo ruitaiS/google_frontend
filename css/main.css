@@ -169,11 +169,16 @@ li{
     height:auto;
 }
 
-#micpos{
+#micbutton{
     z-index: 1;
     position: relative;
     top: 12px;
     right: 36px;
+
+    display: block;
+    height: 44px;
+    width: 24px;
+    align-content: center;
 }
 
 
