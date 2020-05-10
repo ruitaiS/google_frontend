@@ -174,7 +174,11 @@ li{
     font-size: 16px;
 }
 
-#searchbar:hover{
+#searchbar:focus-visible{
+    box-shadow:none;
+}
+
+#searchbar:hover, #searchbar:focus{
     box-shadow: 0 1px 6px 0 rgba(32, 33, 36, .28);
 }
 
