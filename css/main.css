@@ -153,7 +153,6 @@ li{
 
 #searchbar{
 
-    /*Modified from JHPHamwise's Solution*/
     width: 525px;
     height: 42px;
     padding: 0px 10px 2px 47px;
@@ -170,8 +169,8 @@ li{
 }
 
 
-/*trying to get it to both autofocus on start, but also not drop the shadow unless you click
-not successful yet...
+/*trying to replicate the drop shadow behavior (only on manual click or hover, not on autofocus)
+not sure how to distinguish between manual vs. autofocus yet
 */
 #searchbar:focus-visible{
     box-shadow:none;
