@@ -4,3 +4,4 @@ drop shadow behavior on search bar (differentiate between autofocus vs. manual)
 
 microphone button & aria-label
 
+footbar behavior when the window is less than 1139px is peculiar (mine scrunches everything; the real one actually bumps up, and then continues shrinking nicely)
