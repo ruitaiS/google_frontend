@@ -172,13 +172,21 @@ li{
 #micbutton{
     z-index: 1;
     position: relative;
-    top: 12px;
-    right: 36px;
+    top: -1px;
+    right: 41px;
 
-    display: block;
+    /*tbh it's not perfectly lined up with the search bar by like 1px but GOOD ENOUGH for now
+    there should def. be a per-pixel way to nudge the image / anchor box
+    */
+    line-height: 44px;
     height: 44px;
     width: 24px;
-    align-content: center;
+}
+
+#micbutton img{
+    display: inline-block;
+    margin: auto;
+    vertical-align: middle;
 }
 
 
@@ -195,7 +203,7 @@ li{
     background-color: transparent;
     background-image: url("../img/search.png") /*, url("../img/mic.png")*/;
     background-size: 15px /*, 14px*/;
-    background-repeat: no-repeat/*, no-repeat*/;
+    background-repeat: no-repeat /*, no-repeat*/;
     background-position: 16px 13px /*, 547px 12px*/;
     /*commented sections will put a microphone icon into the search bar, but this was achieved later using an anchored image.
     still good for position referencing though so I've left it in there.
