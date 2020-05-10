@@ -70,7 +70,7 @@ li{
     width:100%;
     height: 40px;
     background-color: #f2f2f2;
-    border: 1px solid #e4e4e4
+    border-top: 1px solid #e4e4e4;
 
     font-family: arial,sans-serif;
     font-size: 14px;
@@ -98,13 +98,14 @@ li{
     display:flex;
     align-items: center;
     padding-bottom:15px;
+    padding-left: 3px;
 }
 
 #rightfoot{
     display:flex;
     align-items: center;
     padding-bottom:15px;
-    padding-right: 27px;
+    padding-right: 30px;
 
 }
 
