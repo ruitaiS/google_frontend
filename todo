@@ -1,16 +1,6 @@
-!add the share icon to the top-right of the logo >> it keeps nudging the logo off center
+!top navbar spacings
 
-!add the search icon into the search bar >> this should be working but idk why it doesn't
+drop shadow behavior on search bar (differentiate between autofocus vs. manual)
 
-!tweak spacing of various elements
-    search buttons are off-center
-    footbar text is not vertically centered
-    navbar text is awkwardly spaced / uses weird padding
+microphone button & aria-label
 
-add mouseover text
-
-style cleanup - not sure I'm using divs / id's / classes correctly; need to edit "grammar" as far as which rules are being applied & which ones are being overridden, eliminate redundancies
-
----
-
-Remember to actually do these changes rather than simply leave as-is; gotta start taking pride in my work & doing things as well as I know how.
