@@ -51,7 +51,7 @@ li{
     color: #000;
     opacity: 0.75;
     text-decoration: none;
-    padding: 15px 0px 0px 25px;
+    padding: 15px 0px 0px 15px;
 }
 
 .navlinks:hover{
@@ -115,11 +115,11 @@ li{
 
 
 #appicon{
-    padding: 11px 13px 0px 10px;
+    padding: 11px 12px 0px 18px;
 }
 
 #usricon{
-    padding: 7px 20px 0px 5px;
+    padding: 7px 19px 0px 5px;
 
 }
 
