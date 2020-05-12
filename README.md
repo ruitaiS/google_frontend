@@ -1,6 +1,6 @@
 This is a recreation of the Google Search homepage that I made as part of the Odin Project's self-paced web-dev program. 
 
-I'm still pretty new at this so I took a bit of a "when all you have is a hammer, everything looks like a nail" approach, relying really heavily on flexbox and padding to nudge everything into the right place. Hence there's some really weird padding numbers, and probably quite a bit of repeated code / other stylistic no-nos.
+I'm still pretty new at web design so I took a bit of a "when all you have is a hammer, everything looks like a nail" approach, relying really heavily on flexbox and padding to nudge everything into the right place. Hence there's some really weird padding numbers, and probably quite a bit of repeated code / other stylistic no-nos.
 
 Still there are some things that I couldn't quite figure out, like the alignment of the microphone icon within the clickable anchor area - it's just a few pixels high and it's actually really really bugging me, but I've accepted that I just don't know enough at this point to do anything other than to be annoyed.
 
