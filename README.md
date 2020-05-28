@@ -1,6 +1,4 @@
-This is a recreation of the Google Search homepage that I made as part of the Odin Project's self-paced web-dev program. 
-
-View it here: https://ruitais.github.io/webpage/
+<a href="https://ruitais.github.io/webpage/">This</a> is a recreation of the Google Search homepage that I made as part of the Odin Project's self-paced web-dev program.
 
 I'm still pretty new at web design so I took a bit of a "when all you have is a hammer, everything looks like a nail" approach, relying really heavily on flexbox and padding to nudge everything into the right place. Hence there's some really weird padding numbers, and probably quite a bit of repeated code / other stylistic no-nos.
 
