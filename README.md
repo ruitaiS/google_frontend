@@ -1,4 +1,4 @@
-## [Google Frontend](https://ruitais.github.io/google-frontend/)
+## [Google Frontend](https://ruitais.github.io/google_frontend/)
 
 This is a recreation of the Google Search homepage that I made as part of the Odin Project's self-paced web-dev program. It was my first major foray into HTML and CSS, and as such I'm planning to keep it as-is for posterity, rather than go back and clean it up.
 
